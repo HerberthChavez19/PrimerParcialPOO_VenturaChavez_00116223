@@ -89,9 +89,7 @@ public class Main {
                 break;*/
 
             case 3:
-                for(int i=0; i < ListaInventario.size(); i++){
-                    System.out.println("Nombre: " + ListaInventario.get(i).getNombre +"\n");
-                }
+                
             default:
                 break;
         }
